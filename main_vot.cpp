@@ -1,7 +1,7 @@
 #include <iostream>
 #include <opencv2/imgproc/imgproc.hpp>
-#include "colotracker.h"
-#include "region.h"
+#include "src/colotracker.h"
+#include "src/region.h"
 #include <string>
 #include <limits>
 
